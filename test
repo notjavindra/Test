@@ -9,7 +9,7 @@ local Window = OrionLib:MakeWindow({
 }) --This Will Load The Script Hub
 
 function MakeScriptHub()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))() --Put The Script That Will Load If The Key Is Correct Here
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/notjavindra/lol/refs/heads/main/lol'))() --Put The Script That Will Load If The Key Is Correct Here
 end
 
 OrionLib:MakeNotification({
